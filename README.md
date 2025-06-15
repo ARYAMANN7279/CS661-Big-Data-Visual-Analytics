@@ -1,3 +1,4 @@
 # CS661-Data-Visualisation-and-Analytics
-This repository contains the **2 Assignments and 1 Course Project** which I completed in the Course **CS661-Data Visualisation and Analytics** under **Prof. Soumya Dutta**.
-I have used several Python libraries in the Assignments and the Course Project, along with various other core concepts in data visualisation such as t-SNE.
+This repository showcases the two assignments and one course project completed as part of the course CS661 – Data Visualization and Analytics, offered under the guidance of Prof. Soumya Dutta.
+
+Throughout these works, I have employed a range of Python libraries and explored core data visualization principles, including advanced techniques such as t-SNE, to analyze and present data effectively.
